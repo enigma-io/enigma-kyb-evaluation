@@ -1,8 +1,8 @@
 # enigma-kyb-evaluation
-##Enigma KYB Self-Serve Evaluation Guide
+## Enigma KYB Self-Serve Evaluation Guide
 This contains the python script and sample file for running a self-serve KYB evaluation on Enigma's KYB endpoint. For further instructions, please refer to the [docs site](https://developers.enigma.com/docs/kyb-evaluation-guide).
 
-##Instructions
+## Instructions
 1. This package contains 2 files:
    1. `sample_file.csv` : This is the test asset we’ll be running an evaluation on. Here’s a snapshot of the data.
    2. `data_test.py` : This is a Python script to run the inputs from `sample_file.csv` through Enigma’s KYB endpoint and generate a results file: `unnested_results.csv`.
