@@ -22,3 +22,6 @@ This contains the python script and sample file for running a self-serve KYB eva
       ```
 3. If necessary, don’t forget to install dependencies specified in the file (eg, pandas).
 4. Run the script. Once this script has successfully run it will produce a CSV file with the endpoint responses in the root directory called `unnested_results.csv`.
+
+## Results
+To learn more about output results, please visit the [results section of the KYB self-serve evaluation documentation](https://developers.enigma.com/docs/kyb-evaluation-guide#output-results).
