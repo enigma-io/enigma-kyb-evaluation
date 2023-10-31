@@ -6,7 +6,7 @@ This contains the python script and sample file for running a self-serve KYB eva
 1. This package contains 2 files:
    1. `sample_file.csv` : This is the test asset we’ll be running an evaluation on. Here’s a snapshot of the data.
    2. `data_test.py` : This is a Python script to run the inputs from `sample_file.csv` through Enigma’s KYB endpoint and generate a results file: `unnested_results.csv`.
-2. Open `data_test.py`. In line 9, paste your API key. This is the same key from your Console dashboard (see “Create a Console Account” section).
+2. Open `data_test.py`. In line 9, paste your API key. This is the same key from your Console dashboard (see [“Create a Console Account” section](https://developers.enigma.com/docs/kyb-evaluation-guide#create-a-console-account)).
 
    1. ```
       import requests
